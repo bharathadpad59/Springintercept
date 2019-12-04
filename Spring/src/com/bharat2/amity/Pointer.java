@@ -2,6 +2,7 @@ package com.bharat2.amity;
 
 public class Pointer {
 	private int z;
+	int xyz;
 	
 	
 	private int x;
