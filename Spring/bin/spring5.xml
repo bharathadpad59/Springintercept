@@ -22,9 +22,14 @@
  <property name="breadth" value="87"/>
  </bean>
  
+ 
+ 
  <bean id="Square"  class="com.bharat4.amity.Square">
 
  </bean>
+ 
+ 
+ 
  
  <bean id="squarevalues" class="com.bharat4.amity.Points">
  

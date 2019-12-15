@@ -39,5 +39,8 @@ public class Circle
 	public void draw()
 	{
 		System.out.println(getType()+" " + "is drawn with height"+" "+ getHeight());
+System.out.println("This is tge project which is cloned from git bash "
++ "and we r going to edit it here in eclipse and going to update in bharat branch of spring core project of "
++ "bharathadpad59 and we will see it");
 	}
 }
